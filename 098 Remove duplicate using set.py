@@ -1,0 +1,5 @@
+a=input("data: ")
+list=a.split(",")
+b=set(list)
+c=sorted(b)
+print(c)
